@@ -54,31 +54,31 @@
             {
                 "id": 1,
                 "name": "Tetris Bugs",
-                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/1.webp",
-                "description": "A interface oferece uma solução completa para gerenciamento do fictício restaurante Burger Script, disponibilizando uma plataforma com funcionalidades que atendem as necessidades de cada área do negócio. Os usuários poderão registrar e gerenciar pedidos, bem como,  listar, adicionar, editar e excluir informações de produtos e colaboradores.",
+                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-ariane/main/src/assets/projectsMedia/1.png",
+                "description": "A interface oferece uma solução completa para gerenciamento do fictício restaurante Tetris Bugs, disponibilizando uma plataforma com funcionalidades que atendem as necessidades de cada área do negócio.",
                 "website":"https://tetris-bugs.vercel.app/",
                 "repository": "https://github.com/VieiraAriane/tetris-bugs"
             },
             {
                 "id": 2,
                 "name": "Markdown Links",
-                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/3.webp",
-                "description": "Para instalar o módulo, execute o seguinte comando no seu terminal: npm install md-links-ariane-vieira",
+                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-ariane/main/src/assets/projectsMedia/2.png",
+                "description": "Ferramenta de linha de comando que analisa os arquivos em formato Markdown. Para instalar o módulo, execute o seguinte comando no seu terminal: npm install md-links-ariane-vieira",
                 "website":"https://www.npmjs.com/package/md-links-ariane-vieira",
                 "repository": "https://github.com/VieiraAriane/SAP009-md-links"
             },
             {
                 "id": 3,
                 "name": "Mães e Vinhos",
-                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/4.webp",
-                "description": " É uma rede social específica para tutores de cães, com o objetivo de conectar pessoas que compartilham do amor por esses animais de estimação. Os usuários podem criar perfis, compartilhar informações, curtir e descurtir publicações, bem como, editar ou excluir suas próprias publicações.",
+                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-ariane/main/src/assets/projectsMedia/3.png",
+                "description": " É uma rede social desenvolvida para mães e apreciadoras de vinho. O seu objetivo principal é construir uma comunidade segura para que mães possam compartilhar seus momentos e desafios da maternidade.",
                 "website":"https://maes-bcdb0.firebaseapp.com/#login",
                 "repository": "https://github.com/VieiraAriane/SAP009-social-network"
             },
             {
               "id": 4,
               "name": "Data Lovers",
-              "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/2.webp",
+              "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-ariane/main/src/assets/projectsMedia/4.png",
               "description": "Tem como objetivo ajudar jogadores e novos jogadores a conhecerem melhor os campeões presentes em League of Legends apresentando informações como tipo e nível de ataque, defesa, magia e dificuldade de cada campeão, bem como, disponibiliza um filtro de pesquisa através do nome do campeão.",
               "website":"https://sap-009-data-lovers.vercel.app/",
               "repository": "https://github.com/VieiraAriane/SAP009-data-lovers"
@@ -86,9 +86,9 @@
             {
                 "id": 5,
                 "name": "Papo de Busão",
-                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/5.webp",
+                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-ariane/main/src/assets/projectsMedia/5.png",
                 "description": "Interface que permite ao usuário codificar e descodificar mensagens.",
-                "website":"",
+                "website":"https://vieiraariane.github.io/SAP009-cipher/src/",
                 "repository": "https://github.com/VieiraAriane/SAP009-cipher"
             }
         ]
