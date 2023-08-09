@@ -1,0 +1,97 @@
+{
+    "explorer": {
+        "skills": [
+          {
+            "id": 1,
+            "name": "consumo de API"
+          },
+          {
+            "id": 2,
+            "name": "prototipagem"
+          },
+          {
+            "id": 3,
+            "name": "metodologias ágeis"
+          }
+        ],
+        "tools": [
+            {
+              "id": 1,
+              "name": "React.js"
+            },
+            {
+              "id": 2,
+              "name": "Node"
+            },
+            {
+              "id": 3,
+              "name": "Javascript"
+            },
+            {
+              "id": 4,
+              "name": "Firebase"
+            },
+            {
+              "id": 5,
+              "name": "Git"
+            },
+            {
+              "id": 6,
+              "name": "Github"
+            },
+            {
+              "id": 7,
+              "name": "HTML & CSS"
+            },
+            {
+                "id": 8,
+                "name": "Jest"
+              }
+          ]
+      },
+      "projects":{
+        "data": [
+            {
+                "id": 1,
+                "name": "Tetris Bugs",
+                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/1.webp",
+                "description": "A interface oferece uma solução completa para gerenciamento do fictício restaurante Burger Script, disponibilizando uma plataforma com funcionalidades que atendem as necessidades de cada área do negócio. Os usuários poderão registrar e gerenciar pedidos, bem como,  listar, adicionar, editar e excluir informações de produtos e colaboradores.",
+                "website":"https://tetris-bugs.vercel.app/",
+                "repository": "https://github.com/VieiraAriane/tetris-bugs"
+            },
+            {
+                "id": 2,
+                "name": "Markdown Links",
+                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/3.webp",
+                "description": "Para instalar o módulo, execute o seguinte comando no seu terminal: npm install md-links-ariane-vieira",
+                "website":"https://www.npmjs.com/package/md-links-ariane-vieira",
+                "repository": "https://github.com/VieiraAriane/SAP009-md-links"
+            },
+            {
+                "id": 3,
+                "name": "Mães e Vinhos",
+                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/4.webp",
+                "description": " É uma rede social específica para tutores de cães, com o objetivo de conectar pessoas que compartilham do amor por esses animais de estimação. Os usuários podem criar perfis, compartilhar informações, curtir e descurtir publicações, bem como, editar ou excluir suas próprias publicações.",
+                "website":"https://maes-bcdb0.firebaseapp.com/#login",
+                "repository": "https://github.com/VieiraAriane/SAP009-social-network"
+            },
+            {
+              "id": 4,
+              "name": "Data Lovers",
+              "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/2.webp",
+              "description": "Tem como objetivo ajudar jogadores e novos jogadores a conhecerem melhor os campeões presentes em League of Legends apresentando informações como tipo e nível de ataque, defesa, magia e dificuldade de cada campeão, bem como, disponibiliza um filtro de pesquisa através do nome do campeão.",
+              "website":"https://sap-009-data-lovers.vercel.app/",
+              "repository": "https://github.com/VieiraAriane/SAP009-data-lovers"
+          },
+            {
+                "id": 5,
+                "name": "Papo de Busão",
+                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/5.webp",
+                "description": "Interface que permite ao usuário codificar e descodificar mensagens.",
+                "website":"",
+                "repository": "https://github.com/VieiraAriane/SAP009-cipher"
+            }
+        ]
+      }
+  }
+  

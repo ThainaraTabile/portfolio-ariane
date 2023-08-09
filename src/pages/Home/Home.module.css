@@ -1,0 +1,46 @@
+.background {
+    display: flex;
+    align-items: center;
+    min-height: 60rem;
+    background-image: url(../../assets/generalMedia/home.png);
+    background-size: cover; 
+    background-position: center;
+}
+
+.containerDev{
+    color: var(--titulos);
+    align-items: center;
+    text-transform: uppercase;
+ 
+}
+
+.containerDev>h5{
+    font-family: 'Andada Pro', serif;
+}
+
+@media only screen and (max-width: 767px) {
+ .background{
+    justify-content: center;
+ }
+  .containerDev{
+    font-size: 18px;
+    justify-content: center;
+  }
+  
+  }
+  
+  
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+    .containerDev{
+        margin-left: 8rem;
+        font-size: 23px;
+    }
+   
+  }
+  
+  @media only screen and (min-width: 1024px) {
+    .containerDev{
+        margin-left: 10rem;
+        font-size: 27px;
+    }
+  }

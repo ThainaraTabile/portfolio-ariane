@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Belgrano&display=swap');
+
+header{
+    background-color: var(--background-menu);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    line-height: 2.8rem;
+    text-align: center;
+    justify-content: center;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+   
+}
+
+li{
+    display: inline-block;
+    color: var(--titulos);
+    padding: 10px;
+    text-transform: uppercase;
+    font-family: 'Belgrano', serif;
+   font-weight: bold;
+   cursor: pointer;
+}

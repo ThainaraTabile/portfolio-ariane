@@ -1,0 +1,42 @@
+.divImgBottom {
+    justify-content: flex-end;
+    display: flex;
+    align-items: center;
+}
+
+@media only screen and (max-width: 767px) {
+
+    .satelite {
+        max-width: 13rem;
+    }
+
+    .imgBottom {
+        max-width: 8rem;
+    }
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+    .satelite {
+        max-width: 30rem;
+    }
+
+    .imgBottom {
+        max-width: 20rem;
+    }
+
+}
+
+@media only screen and (min-width: 1024px) {
+    .satelite {
+        max-width: 40rem;
+    }
+
+    .imgBottom {
+        max-width: 30rem;
+    }
+
+    .foguete {
+        max-width: 40rem;
+    }
+}
