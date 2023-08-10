@@ -10,7 +10,7 @@ export default function About () {
         <>
         <Template
         children={<Satelite/>}
-        title="projetos"
+        title="sobre mim"
         content={
             <article>
             <p>Sou uma desenvolvedora web front-end graduada em nutrição. </p>

@@ -2,6 +2,7 @@ import ImageInCorner from "../../components/Images/BottomImage";
 import Foguete from "../../components/Images/Foguete";
 import Template from "../../components/Template";
 import imgRocha from '../../assets/generalMedia/rochas.png';
+import CardProjects from "../../components/Cards/CardProjects";
 
 
 export default function Projects() {
@@ -10,7 +11,7 @@ export default function Projects() {
             <Template
                 children={<Foguete />}
                 title="projetos"
-                content={'oi'}
+                content={ <CardProjects/>}
             />
             <ImageInCorner src={imgRocha} alt='Rochas' />
         </>

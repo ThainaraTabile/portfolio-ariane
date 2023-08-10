@@ -13,6 +13,12 @@
     .imgBottom {
         max-width: 8rem;
     }
+    .foguete{
+        max-width: 13rem;
+    }
+    .aurora {
+       display: none;
+    }
 }
 
 
@@ -23,6 +29,13 @@
 
     .imgBottom {
         max-width: 20rem;
+    }
+    .foguete{
+        max-width: 30rem; 
+    }
+
+    .aurora {
+        max-width: 26rem;
     }
 
 }
@@ -38,5 +51,8 @@
 
     .foguete {
         max-width: 40rem;
+    }
+    .aurora {
+        max-width: 30rem;
     }
 }

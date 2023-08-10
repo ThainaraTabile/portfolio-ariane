@@ -1,0 +1,49 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: var(--titulos);
+}
+
+.image {
+    flex: 1;
+    text-align: center;
+}
+
+.text {
+    flex: 1;
+    text-align: center;
+    padding: 20px;
+}
+
+@media only screen and (max-width: 767px) {
+.container{
+    background-image: url(../../assets/generalMedia/aurora.png);
+}
+    .image {
+       display: none;
+    } 
+}
+
+ @media only screen and (max-width: 767px) {
+    .title{
+        font-size: 20px;
+        font-family: 'Belgrano', serif;
+     }
+  }
+  
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+    .title{
+        font-size: 27px;
+        font-family: 'Belgrano', serif;
+     }
+  }
+  
+  @media only screen and (min-width: 1024px) {
+    .title{
+       font-size: 40px;
+ align-self: flex-end;
+ font-family: 'Belgrano', serif;
+    }
+  }

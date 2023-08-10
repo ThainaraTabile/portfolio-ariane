@@ -22,10 +22,12 @@ ul{
 
 li{
     display: inline-block;
-    color: var(--titulos);
     padding: 10px;
     text-transform: uppercase;
     font-family: 'Belgrano', serif;
    font-weight: bold;
    cursor: pointer;
+}
+li>a{
+    color: var(--titulos);
 }

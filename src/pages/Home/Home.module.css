@@ -1,7 +1,7 @@
 .background {
     display: flex;
     align-items: center;
-    min-height: 60rem;
+    min-height: 70rem;
     background-image: url(../../assets/generalMedia/home.png);
     background-size: cover; 
     background-position: center;

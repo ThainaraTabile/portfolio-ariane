@@ -1,0 +1,10 @@
+.container{
+    color: var(--titulos);
+    padding: 10px;
+    display: inline-flex;
+    gap: 20px;
+}
+
+.container a{
+    color: var(--titulos);
+}
